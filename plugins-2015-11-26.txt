@@ -1,0 +1,176 @@
+There’s a plugin for that!
+
+Ce document accompagne la session Meetup WordPress Genève du 26 novembre 2015. 
+Le sujet: les plugins (extensions) dans WordPress.
+La page du meetup: http://www.meetup.com/geneva-wordpress/events/226671344/
+
+
+Les plugins abordés au cours de la session:
+
+
+Didier Roux:
+
+Sébastien:
+• TinyMCE Advanced
+
+Tita:
+Child Theme Configurator ?
+Duplicator ?
+
+Backup and Security
+Event Calendars
+Newsletters Registrations and managements (BuddyPress?)
+
+Brigitte:
+• Jetpack ?
+
+Erika: 
+• Contact Form 7 ?
+
+Manuel:
+• Formidable
+
+et p.e. Patricia, Evren, Helen, Ruben ...? 
+
+Evren:
+Gravity Forms :)
+
+Patricia :
+iThemes Security ?
+______________________________________________________
+
+
+Les plugins que vous utilisez (presque) systématiquement:
+
+Tita:
+(je passe les 'total classic' de base, style Jetpack ;-) )
+> ceux qui me servent pour le dev
+Child Theme Configurator
+Duplicator - voir http://webdezign.ch/balancer-son-site-en-ligne-avec-duplicator/
+Faker Press
+Maintenance
+
+> ceux que je laisse/configure en prod
+tinyMCE Advanced
+Post Navigator (pour la navigation dans les posts depuis l'édition wp)
+Post Tags and Categories for Pages (pour avoir les catégories et les tags, tant pour les posts que pour les pages, et ça marche très bien)
+
+> les gros plugins d'extension des fonctionnalités WP + sécurité
+Advanced Custom Fields + Custom Post UI
+iThemes Security + Wordfence
+Login Lockdown
+
+Vincent
+
+ACF ( Advanced Custom Fields )
+BackWPup
+iThemes Security
+WP Migrate DB Pro
+WP Super Cache
+
+
+Sébastien :
+All-in-One Event Calendar by Time.ly
+        pour la gestion des événements, heure, lieu, etc...
+Contact Form 7 by Takayuki Miyoshi 
+        pour la gestion des demandes de cotisation
+Magic Liquidizer Responsive Table by Elvin Deza 
+        pour rendre les tableaux HTML responsive
+MailPoet Newsletters by MailPoet 
+        en version gratuite pour la création, la gestion et l'envoi de newslatter
+TinyMCE Advanced by Andrew Ozz
+        Parce que plus c'est ergonomique dans la rédaction... plus c'est bien... enfin... je le pense.
+Wordfence Security by Wordfence 
+        La version gratuite. Wordpress c'est bien, mais 25% du web utilise cet outil.
+        Il y a donc beaucoup de tentatives pas très beaucoup gentille. Se protéger un minimum,
+        c'est le bien.
+WP Smush by WPMU DEV 
+        Les images prennent de la place. L'optimisation de poids c'est bien.
+WP Statistics by Mostafa Soufi & Greg Ross 
+        Pour le traitement statistique de ce qui se passe sur le site...
+        et parce que je n'ai pas vraiment trouvé mieux... un choix par défaut presque.
+
+Manuel:
+• Formidable 
+    pour la gestion de formulaires - un super plugin quand on a des besoins plus avancés que CF7, notamment: enregistrer les données entrées puis les exporter en CSV. Faire des formulaires sur plusieurs pages. Créer des contenus (Posts ou autres) à partir des données entrées. Créer des utilisateurs...
+• Statify, Cachify, AntispamBee
+    statistiques légères, cache, antispam... Ils sont gérés maintenant par le pluginkollektiv
+• MailPoet
+• BackWPup
+• ACF (Advanced Custom Fields)
+• Polylang
+• InfiniteWP
+    pour faciliter la maintenance d'un grand nombre de sites
+• Jetpack...
+• Regenerate Thumbnails
+
+ERIKA
+Contact Form 7 by Takayuki Miyoshi
+Dropbox Backup & Restore by WPAdm.com
+Enhanced Text Widget  - Boston Dell-Vandenberg
+Toast SEO by L’equipe de Yoast   or...
+Google Analytics Dashboard for WP by Alin Marcu
+Google Maps Widget by Web Factory Ltd
+Jetpack par WordPress.com by Automatic
+Top 25 Social Icons by Vyas Dipen
+wp-scroll-up by Darshan Sawardekar
+
+BRIGITTE :
+Les incontournables  (sur quasi tous mes sites) :
+All-in-One SEO
+BackupBuddy (payant)
+Broken Link Checker
+Cookie Notice (pour se conformer à la directive européenne)
+Google XML Sitemap
+Jetpack
+Redirection
+Wordfence Security (version gratuite)
+WP Optimize
+
+Et, en fonction des besoins :
+Contact Form 7
+Really Simple Captcha
+TablePress
+WPML (payant)
+YARPP
+
+Patricia
+Antispam Bee
+iThemes Security
+Contact Form 7
+Contact Form 7 Honeypot
+TablePress
+Shortcode Ultimate
+WPMUDev Snapshots (backup + move)
+Jetpack 
+InfiniteWP
+Insert page
+PDF Embedder
+
+Et vu que j'utilise quasi que du multisite, voici mes incontournables y relatifs :
+WPMUDev Pro Sites (si c'est pour proposer des sites du multisite à des clients)
+WPMUDev Domain Mapping ( "  "  "  ")
+Multisite Enhancement (remplace jonradio Reveal Network Activated Plugins + Multisite Theme Statistics que je mettais avant)
+WPMUDev Multisite Content Copier
+WPMUDev New Blog Templates
+WPMUDev Cloner
+
+Aude
+
+Arconix portfolio gallery
+Black studio tiny MCE
+contact form 7
+easy google font
+WP spamfield
+Yoast SEO
+Origin Page builder
+Site origin widget
+Juiz social post sharer (Add this à éviter)
+Broken link checker
+
+
+Le mot de la fin de Ruben:
+
+http://plugintable.com/
+
+

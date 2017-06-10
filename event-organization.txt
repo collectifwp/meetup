@@ -1,0 +1,28 @@
+Some links and references:
+
+TO DO:
+
+Attend some WordCamps!
+
+Coming soon:
+WordCamp Lyon, 5 juin 2015: http://lyon.wordcamp.org/2015/
+WordCamp Europe, June 26-28, Sevilla, Spain: http://europe.wordcamp.org/2015/
+Elsewhere: http://lanyrd.com/guides/wordpress-in-europe/
+
+TO READ: 
+
+WordCamp Planning - A Guide for Organizers
+http://plan.wordcamp.org/
+
+WordCamp Central:
+https://make.wordpress.org/community/category/wordcamps/
+
+TO WATCH:
+
+Presentations about how to organize a WordCamp / conference:
+
+Daniel Roch: Organiser un événement WordPress
+conférence donnée à WordCamp Paris, janvier 2015
+http://wordpress.tv/2015/03/02/daniel-roch-organiser-un-evenement-wordpress/
+
+##

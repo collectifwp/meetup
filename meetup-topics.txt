@@ -1,0 +1,39 @@
+Sujets de meetups
+*********************
+
+Pricing a WordPress Project
+
+Que vous soyez utilisateur ou prestataire de solutions WordPress, il y a de fortes chances que vous ayez déjà été confronté à cette question: comment évaluer le juste prix d'une réalisation WordPress? 
+
+Selon quels critères établir le prix d'un site web? Quelles sont les méthodes utilisées par les agences ou indépendants pour chiffrer leurs prestations? Comment estimer le coût des frais annexes (maintenance applicative, hébergement, création de contenus)? Ce meetup-discussion apportera quelques éclaircissements sur ces questions. 
+
+***
+
+Apprendre WordPress, enseigner WordPress
+
+Un meetup "table ronde" qui s'adresse à ceux qui souhaitent apprendre WordPress, et aussi à ceux qui l'enseignent (ou songent à le faire).
+
+Sujets proposés: Quels sont les écueils et concepts difficiles à appréhender pour les débutants? Quelles sont les ressources existantes, les supports d'apprentissage recommandés? Comment établir un plan d'apprentissage réaliste, comment délimiter les thématiques et les objectifs? Quels retours d'expérience de ceux qui ont déjà suivi ou donné des formations?
+
+***
+
+Devenir développeur-euse WP
+Les infos utiles pour futurs développeurs - ce que vous aimeriez qu'on vous ait appris quand vous avez débuté dans le développement WordPress... Au menu: jQuery, le PHP dans WP, Custom Taxonomies et Custom Post Types, etc.
+
+***
+
+et encore:
+
+
+There's a plugin for that, part 2
+Maybe we could do a variation based in themes. Ex.: backup, security, forms, etc. ; or specific packages like Jetpack (just a thought).
+
+***
+
+Sécuriser votre site WordPress
+
+***
+
+Choisir son thème WordPress
+
+***

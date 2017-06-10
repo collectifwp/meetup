@@ -1,0 +1,111 @@
+Notes du meetup "Pricing a WordPress Project"
+par Vincent Ghilione
+Date: 27 avril 2016
+Lieu: chez Voisins.ch, place de Grenus
+
+http://www.meetup.com/geneva-wordpress/events/228053164/
+
+Les slides:
+http://fr.slideshare.net/PolychromeSrl/pricing-a-wordpress-project
+
+Notes:
+
+Vincent passe en revue quatre méthodes de facturation:
+
+1: Facturation au temps
+
+Prix du site = Nombre d’heures travaillées * Tarif horaire
+Difficulté à connaitre d’avance le nombre d’heures que l’on va passer.
+Exemple de calcul aboutissant à 110.-/heure.
+
+2: Facturation au forfait
+
+Prix fixe pour un projet basé sur votre expérience de ce type de site ou sur le prix du marché
+
+3: Facturation à la valeur
+
+Adapter le prix du projet aux bénéfices que le client va en tirer
+Exemple: J’installe une newsletter pour un site marchand et je négocie un pourcentage sur les ventes générées.
+
+4: Adaptation au budget du client
+
+Approche de Vincent:
+
+Impliquer le client dans la conception du devis
+
+Premier contact: indiquer une fourchette de prix.
+
+Ensuite: 1ere séance de travail avec le client (1-2h) pour établir les fonctionalités et la structure (post-its) = le vrai devis est établi sur cette base, avec le client.
+
+Décomposition d'un projet en étapes-clé:
+
+- Wireframes
+- Design
+- Installation WP 
+- Développement 
+- Insertion du contenu 
+- Tests & mise en ligne 
+
+Exemple de budget (projet fictif):
+
+500: Wireframes 
+2’000: Design 
+250: Installation WP 
+2000: Développement 
+500: Insertion du contenu
+250: Tests & mise en ligne 
+total: 5500.-
+
+Les points en plus qui doivent être prévus:
+
+Formation 
+Maintenance 
+Référencement 
+Publicité
+Création de contenu 
+
+***
+
+Facturation de la maintenance:
+
+Idée (par John Robert-Nicoud | 6clicks): 
+
+- Coût annuel: 15% du prix du site (donc 825.- pour un site de 5500)
+- Une période gratuite de mises à jour incluse dans le projet (p.ex: 3 mois)
+- Pendant cette période: envoi hebdomadaire des mises à jour effectuées.
+
+***
+
+Bonnes pratiques commerciales:
+
+- Toujours obtenir une copie signée du devis.
+Cela peut vous aider à gagner au tribunal en cas de litige.
+
+- Avances sur les paiements:
+
+Une méthode (proposition de Loriskumo): 
+
+- Si projet jusqu'à CHF 1000.-, paiement intégral à l'avance.
+- Si projet jusqu'à CHF 5000.-, 50% d'avance.
+- Si projet au-dessus de CHF 5000.-, 30% d'avance.
+- Si grand projet de longue durée, ajout d'une étape de paiement à mi-parcours.
+
+***
+
+Références:
+
+Un contrat modèle pour webdesigner, par Andy Clarke:
+https://gist.github.com/malarkey/4031110
+
+Le podcast "Unfinished Business" de Andy Clarke et Anna Debenham. 
+Les premiers épisodes sont une mine d'informations:
+
+http://www.unfinished.bz/2
+"In this episode, the often taboo subject of how to decide what to charge for what you do. Getting the balance between too cheap and too pricey can be tricky, so Andy and Anna share their experiences — including Andy’s infamous ‘double your rate Fridays’ — and how to handle uncomfortable conversations about money."
+
+http://www.unfinished.bz/3
+"In this episode, getting paid. Andy and Anna talk about deposits and down-payments, getting paid regularly and what you can do if the unthinkable happens and you have to fight for your money."
+
+
+
+***

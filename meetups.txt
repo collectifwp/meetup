@@ -1,0 +1,172 @@
+# Geneva WordPress Meetups History
+
+## Meetups of 2012 (total: 3)
+
+1) July: WordPress Geneva Meet & Greet
+
+2) 5 December: WordPress 3.5 release celebration
+http://www.meetup.com/geneva-wordpress/events/88493322/
+
+3) 11 December – Meetup débutants / WP beginners
+http://www.meetup.com/geneva-wordpress/events/92457372/
+
+
+## Meetups of 2013 (total: 15)
+
+1) January 22 – Meetup Janvier
+avec Timothee Bardet, Didier Roux et Cavimaster
+http://www.meetup.com/geneva-wordpress/events/95213522/
+
+2) February 27 – February Meetup
+avec Patricia Brun Torre
+http://www.meetup.com/geneva-wordpress/events/104569512/
+
+3) March 13 – Meetup développeurs / Developer Day
+http://www.meetup.com/geneva-wordpress/events/92456952/
+
+4) March 27 – traduction / localisation / multilingue
+http://wpgva.titanpad.com/2
+
+5) April 23 – UX improvements for WordPress websites
+with Adam Ungstad
+http://wpgva.titanpad.com/3
+
+6) May 8 – WordPress Lausanne Meetup #1
+http://wpgva.titanpad.com/4
+
+7) May 27 – WP 10th anniversary party
+
+8) May 29 – Editorial Workflows in Wordpress
+http://wpgva.titanpad.com/5
+
+9) June 15 – Getting real: a hands-on workshop
+http://wpgva.titanpad.com/6
+
+--- Summer Break ;) ---
+
+10) September 18 – Autumn Meetup (WP 3.6)
+http://wpgva.titanpad.com/7
+
+11) October 15 – WordCamp Europe - The (in)official report
+http://wpgva.titanpad.com/8
+
+12) November 5 – Your First WordPress Site: Where to Start?
+with Jenia Laszlo
+http://www.meetup.com/geneva-wordpress/events/146251812/
+
+13) November 21 – WordPress and Internet Marketing
+with Krzysztof Rogoza
+http://wpgva.titanpad.com/9
+
+14) December 10 – Hands-on session for WP newbies
+with Brigitte Djajasasmita
+http://wpgva.titanpad.com/11
+
+15) December 10 – WP Plugin Development 
+with Joey Kudish
+
+Total for 2013: 15 meetups
+All time total: 18 meetups
+
+## Meetups of 2014:
+
+1) January 22 – WordPress & Internet Marketing (Part 2)
+with Patricia Brun Torre
+
+2) February 4 – Blogging with WordPress
+with Stephanie Booth
+La pratique du blogging.
+
+3) March 11 – Mailings et Newsletters
+with Manuel Schmalstieg
+Bonnes pratiques pour l'utilisation de newsletters.
+http://meetu.ps/1ZNlvd
+
+4) April 9 – Advanced Custom Fields
+with Maxime Bernard-Jacquet (Grenoble)
+Amélioration de l'expérience utilisateur avec le plugin Advanced Custom Fields.
+http://meetu.ps/29rKqs
+
+5) May 13 – Using WordPress as a Streamlined CMS
+with Eileen Weinberg
+Case study d'un site créé avec WordPress (pmcoursefinder.ch).
+http://meetu.ps/2fFyql
+slides: http://www.slideshare.net/eileenweinberg/tips-to-use-wordpress-to-build-a-website
+
+6) May 27 – Advanced uses of BuddyPress
+with Evren Kiefer and Gilles Vauvarin
+Présentation de BuddyPress, case study du site Global Health Forum.
+http://meetu.ps/2d7V5P
+
+--- Summer Break ;) ---
+All time total so far: 24 meetups
+
+7) Septembre 25 – avec Corinne Stoppelli
+Présentation de l'activité d'une bloggeuse "voyage".
+http://meetu.ps/2pjbkz
+
+8) Octobre 30 – table ronde "Choix de Thème"
+avec Gilles, Patricia, Manuel
+http://meetu.ps/2ySm3q
+
+9) Dec 10 – WordPress 4.1 release party
+
+Total for 2014: 9 meetups
+All time total: 27 meetups
+
+## Meetups of 2015:
+
+1) February 26 – 300!
+
+2) March 12 – Rencontre WordPress à Neuchâtel
+
+3) March 18 – WordPress Lausanne
+
+4) March 26 – Table ronde sur WooCommerce
+
+5) April 28 – Event Task-Force Meetup
+
+6) May 13 – Do’s and Don’ts of WordPress Theme Development
+with Ulrich Pogson
+
+7) June 23 – Solutions multilingues pour WordPress
+avec Vincent Ghilione
+
+--- Summer Break ;) ---
+All time total: 34 meetups
+
+8) September 29 – Q&A, WordCamp feedback, Big announcement
+
+9) Nov 26 – There’s a plugin for that!
+
+Total for 2015: 9 meetups
+All time total: 36 meetups
+
+## Meetups of 2016:
+
+1) February 12 – WordPress code performance
+with Stéphane Boisvert
+
+2) March 10 – Sécuriser votre site avec SSL/TLS et HTTPS
+
+3) March 23 – Etude de cas: migration de Fréquence Banane vers WordPress
+
+4) April 5 – Apprendre WordPress, enseigner WordPress
+
+5) April 27 – Pricing a WordPress Project
+avec Vincent Ghilione
+notes: https://wpgva.titanpad.com/20160427
+
+6) June 2 – Devenir développeur-euse WP
+mini-présentations de 5 minutes
+avec Benoît Chantre, 
+
+--- Summer Break ;) ---
+
+7) October 4 – Soirée d'info (FR/EN) à propos du WordCamp du 18 Novembre
+
+
+Total for 2016: 7 meetups
+All time total: 43 meetups
+
+###

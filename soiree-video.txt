@@ -1,0 +1,7 @@
+Le programme de cette soirée consistera à:
+
+- Importer les fichiers vidéo et audio
+- Synchroniser l'image et le son
+- Incruster une image titre (déjà préparée)
+- Exporter au format web
+- Uploader sur WordPress.tv

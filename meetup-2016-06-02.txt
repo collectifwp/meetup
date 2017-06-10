@@ -1,0 +1,68 @@
+Notes du meetup "Devenir développeur-euse WP"
+
+Date: jeudi 2 juin 2016
+Lieu: chez Voisins.ch, 4 place de Grenus
+
+http://www.meetup.com/geneva-wordpress/events/228053173/
+
+***
+
+ORGANISATION:
+
+Je propose de faire un meetup sur le mode "unconference", comme nous l'avions fait pour le meetup des plugins...
+Le oratrices•eurs peuvent présenter des sujets avec une limite de temps de 5 minutes.
+Cela laisse le temps de traiter jusqu'à 8 sujets. 
+Une personne peut présenter plusieurs sujets.
+
+Début: 19h00, fin 20h00.
+
+Slots:
+
+19:00 - mot de bienvenue (Helen?)
+19:05 - slot 1: ... Benoît (plugin pour CPT / CT)
+19:10 - slot 2: ... Manuel (shortcodes)
+19:15 - slot 3: ... Luca Palli: GIT + WP ( install and update WordPress)
+19:20 - slot 4: ... Thierry Muller: Beans markup and attributes control 
+19:25 - 5 minutes de pause :)
+19:30 - slot 5: ... Benoît (utilisation WP-CLI)
+19:35 - slot 6: ... Manuel (GRUNT)
+19:40 - slot 7: ... Benoît : choix d'une licence
+19:45 - slot 8: ... Manuel : po / mo
+19:50 - debrief (Patricia?)
+
+***
+
+Quelques sujets possibles:
+
+
+Benoît:
+- Utilisation de WP-CLI (installation, rechercher / remplacer dans la DB, ...)
+- Création d'un plugin simple pour ajouter un Custom Post Types et des Custom Taxonomies
+- le "choix" d'une license. 
+
+Luca: 
+I can speak (in French) about GIT and WordPress, it's not a relay dev technique but more how to use a dev technique to install and update WordPress (I applied and extended the technique described in this post https://davidwinter.me/install-and-manage-wordpres    s-with-git/).
+
+Manuel:
+"Let shortcodes do the work for you!" 
+Exemple 1: usage du shortcode [gallery] pour (a) ne pas devoir se fatiguer avec le markup et (b) rendre le code plus pérenne. Exemple 2: embed de vidéo youtube ou vimeo... on fournit simplement l'URL et on y applique le filtre qui produit l'embed.
+
+Manuel:
+GRUNT
+Utilisation de GRUNT pour faire la compilation & concaténation du CSS / JS. Problème: il faut renommer à chaque fois la fonction qui "enqueue" le CSS. Astuce: GRUNT peut le faire! :)
+
+Manuel:
+Override des langues (thème et plugins)
+Utilisation du code proposé par Ulrich Pogson.
+Utilisation de l'application POEdit.
+
+***
+
+SLIDES: 
+
+Let's see if it's possible to use one single slide deck for the whole meetup. 
+You can try and add your content here:
+
+https://docs.google.com/a/ms-studio.net/presentation/d/11Zmn0eh74vvVX_zGrRizNDx_QBEK2UnG_kzevwuqK3U/edit?usp=sharing
+
+
