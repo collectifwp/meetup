@@ -118,7 +118,9 @@ All time total: 27 meetups
 
 1) February 26 – 300!
 
-2) March 12 – Rencontre WordPress à Neuchâtel
+2) March 12 – Rencontre WordPress à Neuchâtel  
+la première rencontre WordPress à Neuchâtel!  
+https://www.meetup.com/geneva-wordpress/events/220732438/
 
 3) March 18 – WordPress Lausanne
 
@@ -168,5 +170,7 @@ avec Benoît Chantre,
 
 Total for 2016: 7 meetups
 All time total: 43 meetups
+
+La suite sur le site: https://www.meetup.com/geneva-wordpress/events/past/
 
 ###
